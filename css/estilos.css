@@ -15,15 +15,10 @@ body{
 }
 #titulo{
     color: brown;
-<<<<<<< HEAD
-    font-size: 30px;
-    text-align: left;
-=======
     font-size: 50px;
 }
 .cabecera{
     background-color: cadetblue;
     color: black;
     font-size: 60px;
->>>>>>> cabecera
 }
