@@ -3,3 +3,11 @@ body{
     text-align: center;
     color: blanchedalmond;
 }
+.contenedor{
+    border: 2px solid aqua; 
+    padding: 10px;   
+}
+#titulo{
+    color: brown;
+    font-size: 50px;
+}
